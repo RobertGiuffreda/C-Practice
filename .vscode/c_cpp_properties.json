@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/"
+            ],
+            "defines": [
+                "UNICODE",
+                "_DEBUG"
+            ],
+            "cStandard": "c17",
+            "windowsSdkVersion": "10.1.22000.8",
+            "compilerPath": "C:\\Program Files\\llvm\\release\\bin\\clang.exe",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
